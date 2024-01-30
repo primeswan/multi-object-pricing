@@ -16,3 +16,9 @@ We print the optimal menu and plot them on the type-space. Although we implement
 ## Implementation
 
 To implement the code, run main.py in the project folder after installing the requirements.
+
+## Result
+
+The project achieves high accuracy(>99.9) even for a test size of 50k types on a [0,1]^2 type-space. Below is the outcomes map.
+
+![Outcome map](project/outcome-on-typespace.png)
